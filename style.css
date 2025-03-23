@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 700px;
+}
+
+.main{
+    background-color: gray;   
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    padding-top: 50px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 79px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+
+.number{
+    font-size: 40px;
+}
